@@ -1,0 +1,4 @@
+```bash
+echo "# 这里写项目依赖，比如：
+# requests==2.31.0
+" > requirements.txt
